@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/ServiceController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/TrainingController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Service.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_06_21_033712_create_services_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_06_21_042503_create_trainings_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/assets/js/script.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/layout.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/projects/projects.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/services/farmer.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/services/services.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/services/services_single.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/services/training.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/services/training_single.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/web.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
